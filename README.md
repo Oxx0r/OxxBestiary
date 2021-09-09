@@ -1,2 +1,2 @@
 # OxxBestiary
-https://oxx0r.github.io/OxxBestiary/
+https://oxx0r.github.io/OxxBestiary/ ...
